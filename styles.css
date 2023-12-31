@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+body{
+    text-align: center;
+    background-color: #CC9999;
+    font-family: 'Rubik', sans-serif;
+}
+.btn{
+   
+    color:#1B735C;
+    box-shadow: 1px 2px 7px #1B735C;
+    border: 5px;
+    border-radius: 15px;
+    border-color: aquamarine;
+    padding: 12px;  
+} 
+.btn:focus{
+    background-color: #1B735C;
+    color: aliceblue;
+}
+.diBox{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 12px;
+    font-size: small;
+
+}
+.year{
+    color: #1B735C;
+    text-decoration:dotted;
+}
